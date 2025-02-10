@@ -10,6 +10,22 @@ I have included the dataset and a powerbi desktop file (.pbix) in the repository
 
 Here is a quick overview of the fields available in the dataset: 
 
+| Column Name     | Column Type | Definition                         |
+|-----------------|-------------|------------------------------------|
+| Date            | Date        | Date of the transaction            |
+| Customer Name   | Text        | Name of the customer               |
+| State           | Text        | State (customer location)          |
+| Category        | Text        | Product category                   |
+| Sub-Category    | Text        | Product Sub category               |
+| Product Name    | Text        | Product name                       |
+| Sales           | Decimal     | Sales ($)                          |
+| Quantity        | Integer     | Quantity                           |
+| Profit          | Decimal     | Profit from the transaction ($)    |
+
+		
+		
+
+
 
 ## Overview
 
