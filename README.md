@@ -1,6 +1,6 @@
-# Furniture Sales Dashboard Analysis
+# Furniture Sales Dashboard
 
-In this project, I have used a public dataset that to analyse the sales and profit for the organisation from 2014 to 2107 across various parameters such as different timelines, as input by the user including year, month and qtr. The first page of the dashboard focuses on a high level trend summary and enables the user to select the metric that they want to review. The page also provides a TOP 5 subcategory table to get a quick understanding of the business sales in just a glance. 
+In this project, I have used a public dataset that to analyse the sales and profit for the organisation from 2014 to 2017 across various parameters such as different timelines, as input by the user including year, month and qtr. The first page of the dashboard focuses on a high level trend summary and enables the user to select the metric that they want to review. The page also provides a TOP 5 subcategory table to get a quick understanding of the business sales in just a glance. 
 
 The second page is a more detailed analysis of user input metric (Sales, Qty and Profit) across the geographic region. The page also gives a breakdown of how each category is tracking for a selected metric over a selected timeline. 
 
@@ -74,7 +74,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 **Possible Business Actions:**
 - Optimizing inventory and marketing strategies for peak demand in Q4 to maximize revenue.
 - Targeting underperforming states with marketing and promotional efforts to boost sales.
-- Analyzing sales dips in certain quarters to understand potential causes and address demand fluctuations.
+- Analysing sales dips in certain quarters to understand potential causes and address demand fluctuations.
 
 ---
 
