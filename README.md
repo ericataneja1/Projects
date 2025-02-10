@@ -1,5 +1,16 @@
 # Furniture Sales Dashboard Analysis
 
+In this project I have used a public dataset that to analyse the sales and profit for the organisation from 2014 to 2107 across various parameters such as different timelines, as input by the user including year, month and qtr. The first page of the dashboard focuses on a high level trend summary and enables the user to select the metric that they want to review. The page also provides a TOP 5 subcategory table to get a quick understanding of the business sales in just a glance. 
+
+The second page is a more detailed analysis of user input metric (Sales($),Qty and Profit($)) across the geographic region. The page also gives a breakdown of how each category is tracking for a selected metric over a selected timeline. 
+
+The third page is a detailed summary that breaksdown sub-category performance. The report page depicts the pareto principle that enables users to understand the distribution of sales and profit for all the subcategories. 
+
+I have included the dataset and a powerbi desktop file (.pbix) in the repository. Feel free to download the *Furniture Sales Data.pbix* file and open it using PowerBI Desktop. 
+
+Here is a quick overview of the fields available in the dataset: 
+
+
 ## Overview
 
 This interactive Power BI dashboard provides a comprehensive analysis of sales performance across different categories, time periods, and regions. It presents key metrics such as total sales, profit, and unit volumes while allowing users to explore trends and perform deeper analysis using filters.
