@@ -52,9 +52,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
   The line chart highlights consistent sales growth across all categories, with Technology outperforming Furniture and Office Supplies in 2017.
 
 **Possible Business Actions:**
-- Increase investment in high-performing sub-categories like Phones and Copiers to maximize profitability.
-- Monitor the declining performance of tables, as it has lower sales volume and negative profit (-$17.7K).
-- Expand the market for Office Supplies and Furniture, which have stable but slower growth.
+- Increasing investment in high-performing sub-categories like Phones and Copiers could maximize profitability.
+- Monitoring the declining performance of tables, as it has lower sales volume and negative profit (-$17.7K).
+- Expanding the market for Office Supplies and Furniture, which have stable but slower growth.
 
 ---
 
@@ -72,9 +72,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
   Q4 shows peak sales, suggesting strong demand during the year-end, potentially due to holiday promotions or business spending.
 
 **Possible Business Actions:**
-- Optimize inventory and marketing strategies for peak demand in Q4 to maximize revenue.
-- Target underperforming states with marketing and promotional efforts to boost sales.
-- Analyze sales dips in certain quarters to understand potential causes and address demand fluctuations.
+- Optimizing inventory and marketing strategies for peak demand in Q4 to maximize revenue.
+- Targeting underperforming states with marketing and promotional efforts to boost sales.
+- Analyzing sales dips in certain quarters to understand potential causes and address demand fluctuations.
 
 ---
 
@@ -94,9 +94,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
   The visualization of cumulative profit shows outliers that negatively impact profitability, highlighting areas for cost reduction or pricing optimization.
 
 **Possible Business Actions:**
-- Prioritize high-contribution sub-categories (Phones, Copiers, Binders) for promotions, stock management, and investment.
-- Reassess pricing and cost structures for low-profit or negative-profit categories like Tables.
-- Use data-driven forecasting to optimize inventory and reduce holding costs for low-performing sub-categories.
+- Prioritizing high-contribution sub-categories (Phones, Copiers, Binders) for promotions, stock management, and investment.
+- Reassessing pricing and cost structures for low-profit or negative-profit categories like Tables.
+- Using data-driven forecasting and supply planning strategies to optimize inventory and reduce holding costs for low-performing sub-categories.
 
 ---
 
