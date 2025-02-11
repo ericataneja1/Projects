@@ -1,6 +1,6 @@
 # Furniture Sales Dashboard
 
-In this project, I have used a public dataset that to analyse the sales and profit for the organisation from 2014 to 2017 across various parameters such as different timelines, as input by the user including year, month and qtr. The first page of the dashboard focuses on a high level trend summary and enables the user to select the metric that they want to review. The page also provides a TOP 5 subcategory table to get a quick understanding of the business sales in just a glance. 
+In this project, I have used a public dataset that to analyze the sales and profit for the organisation from 2014 to 2017 across various parameters such as different timelines, as input by the user including year, month and qtr. The first page of the dashboard focuses on a high-level trend summary and enables the user to select the metric they want to review. The page also provides a TOP 5 subcategory table to get a quick understanding of the business sales in just a glance. 
 
 The second page is a more detailed analysis of user input metric (Sales, Qty and Profit) across the geographic region. The page also gives a breakdown of how each category is tracking for a selected metric over a selected timeline. 
 
@@ -40,7 +40,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 
 **Key Insights:**
 - **Total Sales & Profit Performance**:  
-  The company generated $2.30M in sales with a profit of $286.40K, indicating a profit margin of 12.47%.  
+  The company generated $2.30M in sales, with a profit of $286.40K, indicating a profit margin of 12.47%.  
   A total of 38K units were sold across different categories.
 
 - **Top 5 Sub-Categories by Volume & Profit**:  
@@ -74,7 +74,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 **Possible Business Actions:**
 - Optimizing inventory and marketing strategies for peak demand in Q4 to maximize revenue.
 - Targeting underperforming states with marketing and promotional efforts to boost sales.
-- Analysing sales dips in certain quarters to understand potential causes and address demand fluctuations.
+- Analyzing sales dips in certain quarters to understand potential causes and address demand fluctuations.
 
 ---
 
@@ -101,6 +101,6 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales p
 ---
 
 ## Conclusion  
-This dashboard effectively visualizes sales trends, category performance, and regional insights, enabling businesses to make data-driven decisions. By leveraging these insights, the company can optimize pricing strategies, improve profitability, and enhance market positioning.
+This dashboard effectively visualizes sales trends, category performance, and regional insights, enabling businesses to make data-driven decisions. By leveraging these insights, the business can optimize pricing strategies, improve profitability, and enhance market positioning.
 
 **Data Source**: [Kaggle.com](https://www.kaggle.com)
